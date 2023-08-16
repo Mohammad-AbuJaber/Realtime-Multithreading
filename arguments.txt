@@ -1,0 +1,7 @@
+ant_count=30
+food_generation_interval=1
+ant_smell_food=100
+ant_smell_pheromone=150
+food_eating_per=1
+simulation_time=1
+smell_intensety=0.5
