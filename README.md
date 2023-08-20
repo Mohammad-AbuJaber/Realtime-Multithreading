@@ -2,6 +2,9 @@
 
 Welcome to the Ant Searching for Food Simulation project! This repository contains a multi-threading application that simulates the behavior of a group of ants searching for food. The simulation aims to provide a simplified representation of ant behavior while considering key aspects such as movement, pheromones, food consumption, and simulation termination.
 
+
+![realTimeProject](https://github.com/Mohammad-AbuJaber/Realtime-Multithreading/assets/130397610/87d518e7-1d1a-47d4-8955-8db0a1ebd809)
+
 ## Table of Contents
 
 - [Description](#description)
